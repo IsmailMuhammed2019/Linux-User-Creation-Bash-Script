@@ -22,7 +22,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone (https://github.com/IsmailMuhammed2019/Linux-User-Creation-Bash-Script)
+    git clone https://github.com/IsmailMuhammed2019/Linux-User-Creation-Bash-Script
     cd Linux-User-Creation-Bash-Script
     ```
 
