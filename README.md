@@ -100,6 +100,6 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## Author
 
-- [Your Name](https://github.com/your-github-username)
+- Ismail Muhammed (https://github.com/your-github-username)
 
 ```
