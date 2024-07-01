@@ -48,9 +48,9 @@ Each line represents a single user. Groups are optional and should be separated 
 
 Example:
 ```
-alice;admin,developers
-bob;users
-charlie;
+light; sudo,dev,www-data
+idimma; sudo
+mayowa; dev,www-data
 ```
 
 ## Logs
@@ -64,9 +64,9 @@ Here is an example of how to use the script:
 
 1. Create an input file `users.txt` with the following content:
     ```
-    alice;admin,developers
-    bob;users
-    charlie;
+    light; sudo,dev,www-data
+    idimma; sudo
+    mayowa; dev,www-data
     ```
 
 2. Run the script:
